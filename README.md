@@ -16,7 +16,7 @@ Kenneth Fernandez @Kenfernandezjr https://medium.com/@kenfernandezjr/my-final-pr
 ## Installation
 ### we would love to provide you and install but the product is still in beta
 
-##Contributing
+## Contributing
 Trevor Stevenson @Tr3v1n4t0r
 
 Kyle Campbell @waffle52
