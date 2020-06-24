@@ -10,7 +10,7 @@
 -Kenneth Fernandez @Kenfernandezjr https://medium.com/@kenfernandezjr/my-final-project-blog-e7136d7f9efa
 
 ## live Demo
-[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)]()
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://youtu.be/43BubLL1deI)
 Must include link to your deployed site, final project blog article, author(s) LinkedIn
 ##Installation
 ### we would love to provide you and install but the product is still in beta
